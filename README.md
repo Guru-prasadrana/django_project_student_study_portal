@@ -1,0 +1,1 @@
+# django_project_student_study_portal
